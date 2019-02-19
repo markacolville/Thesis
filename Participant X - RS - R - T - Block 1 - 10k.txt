@@ -1,0 +1,8 @@
+Interval=	0.0001 s
+ExcelDateTime=	XXXXXXX
+TimeFormat=	StartOfFile
+ChannelTitle=	Marker	Raw Left	Raw Right
+Range=	5.000 V	1000.0 µV	1000.0 µV
+1000.0001	0.001	1.0	1.0
+1000.0002	0.001	1.0	1.0
+1000.0003	0.001	1.0	1.0
